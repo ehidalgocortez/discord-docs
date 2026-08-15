@@ -1,1 +1,30 @@
+Política de Privacidad de BHD
 
+1. Información que Recopilamos
+BHD (en adelante, "el Bot") está diseñado para minimizar la recolección de datos al máximo. Únicamente procesamos la información estrictamente necesaria para su funcionamiento:
+
+Identificadores de Discord (IDs): Podemos procesar de forma temporal o técnica el ID del servidor (Guild ID) y el ID del canal (Channel ID) donde se configura el mensaje de bienvenida fijado.
+
+No recopilamos datos personales: El Bot no almacena nombres de usuario, mensajes de texto, correos electrónicos, direcciones IP ni ningún otro dato de identificación personal.
+
+2. Uso de la Información
+La información técnica procesada se utiliza exclusivamente para:
+
+Publicar y mantener fijado el mensaje de bienvenida en el canal asignado por los administradores del servidor.
+
+Garantizar el correcto funcionamiento de las funciones básicas del Bot.
+
+3. Almacenamiento y Compartición de Datos
+
+Almacenamiento: No mantenemos bases de datos persistentes con información privada de los usuarios.
+
+Terceros: No vendemos, alquilamos ni compartimos ningún tipo de datos con terceros. Toda la interacción del Bot ocurre de forma aislada dentro de la infraestructura de Discord.
+
+4. Retención y Eliminación de Datos
+Dado que no almacenamos información personal de manera permanente, no existen registros que eliminar. Si expulsas o eliminas a BHD de tu servidor, el Bot perderá inmediatamente el acceso al canal y dejará de procesar cualquier dato asociado a dicho servidor.
+
+5. Cumplimiento con las Políticas de Discord
+El uso de BHD está sujeto a la Política de Privacidad de Discord y a sus Términos de Servicio.
+
+6. Contacto
+Si tienes dudas o preguntas sobre esta Política de Privacidad o el funcionamiento de BHD, puedes ponerte en contacto a través de: contacto@bhd.cl
